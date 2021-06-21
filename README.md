@@ -8,7 +8,7 @@ This dataset will really helps you to understand:-
 - Pandas
 - Feature Engineering
 - Feature Selection
-- Regularization in Deep Learning
+- Regularization with Tensorflow and Keras
 
 All the files regarding the dataset and the model creation are uploaded above.
 
